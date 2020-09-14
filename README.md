@@ -4,8 +4,12 @@ These are all the slides from talks that I have given, either for UT's Infomatio
 
 ## Table of Contents
 
+### Internship
+- [Package manager security](Package-manager-security.pdf)
+
 ### ISSS
 - [Steganography](Steganography.pdf)
+- [What is a CTF?](What-is-a-CTF.pdf)
 
 ### ACM
 - [Advanced Linux](Advanced-Linux.pdf)
