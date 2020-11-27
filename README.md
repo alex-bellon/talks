@@ -8,6 +8,8 @@ These are all the slides from talks that I have given, either for UT's Infomatio
 - [Package manager security](Package-manager-security.pdf)
 
 ### ISSS
+- [Forensics](Forensics.pdf)
+- [Personal Security](Personal-Security-ISSS.pdf)
 - [Steganography](Steganography.pdf)
 - [What is a CTF?](What-is-a-CTF.pdf)
 
@@ -20,4 +22,4 @@ These are all the slides from talks that I have given, either for UT's Infomatio
 - [Web Workshop](Web-Workshop.pdf)
 
 ### Guest
-- [Personal Security](Personal-Security.pdf) - made for WiCS Hacks 2020
+- [Personal Security](Personal-Security-WiCS-Hacks.pdf) - made for WiCS Hacks 2020
